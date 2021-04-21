@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/D:/+DOCUMENTOS/9no Semestre/Servicios Web/PRACTICA5_A171297/ejemplo2.xsl"?>
+<motos>
+<modelo>
+   <nombre>DUCATI PANIGALE V4</nombre>
+   <costo>1500000</costo>
+</modelo>
+<modelo>
+   <nombre>YAMAHA V-MAX</nombre>
+   <costo>850000</costo>
+</modelo>
+<modelo>
+   <nombre>BMW AVENTURE G5</nombre>
+   <costo>634999</costo>
+</modelo>
+</motos>
